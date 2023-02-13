@@ -7,7 +7,7 @@ Este es mi primer sitio web. Trata de mi auto biografia y algunos aspectos de mi
 
 - Lugar y fecha de nacimiento
 
-Familia
+- Familia
 
 - Educacion
 
