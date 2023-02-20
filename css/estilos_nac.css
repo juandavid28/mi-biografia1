@@ -1,0 +1,40 @@
+*
+{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+main
+{
+    width: 100%;
+    height: 500%;
+    border: 10px solid gray;
+    padding: 20px 35px;
+}
+
+#uno
+{
+    background-color: yellow;
+    position: relative;
+}
+
+#dos
+{
+    background-color: blue;
+    position: relative;
+    
+}
+
+#tres
+{
+    color: red;
+    padding: 5px;
+    border-radius: 2px;
+}
+
+#text
+{
+    color: white;
+    padding: 5px;
+    border-radius: 2px;
+}

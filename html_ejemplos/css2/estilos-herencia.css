@@ -1,0 +1,17 @@
+*
+{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+html
+{
+    font-size: 75%; /*75% de 16 pixeles que es el temaño default de la letra*/
+    font-family: Verdana, Geneva, Tahoma, sans-serif00;
+}
+
+h1
+{
+    font-size: inherit;
+}
