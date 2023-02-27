@@ -17,7 +17,7 @@ main
 #uno
 {
     background-color: yellow;
-    font-size: 40px;
+    font-size: 22px;
     position: relative;
     font-family: 'Vollkorn Regular', sans-serif;
     font-family: 'Vollkorn Bold', sans-serif;
@@ -35,7 +35,7 @@ main
     color: red;
     padding: 5px;
     border-radius: 2px;
-    font-size: 20px;
+    font-size: 22px;
     text-decoration: none;
     font-family: 'Vollkorn Regular', sans-serif;
     font-family: 'Vollkorn Bold', sans-serif;

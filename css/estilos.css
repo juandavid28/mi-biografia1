@@ -1,10 +1,18 @@
-/*Clases*/
+@import url('https://fonts.cdnfonts.com/css/vollkorn');
+*
+{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
 .main-nav
 {
-    margin: 10px;
+    margin: 5px;
+    padding: 15px;
     list-style: none;
     padding-left: 0;
-    background-color: orangered
+    background-color: #0976b1
 }
 
 .main-nav__item
@@ -15,23 +23,24 @@
 .main-nav__item a
 {
     color: white;
-    padding: 5px;
-    border-radius: 2px;
+    padding: 6px;
+    border-radius: 4px;
     text-decoration: none;
+    font-size: 23px;
 }
 
-header
+main
 {
    background-color: yellow;
    margin: 0;
-   padding: 0;
-
+   padding: 10px;
+   font-size: 20px;
+   font-family: 'Vollkorn Regular', sans-serif;
+   font-family: 'Vollkorn Bold', sans-serif;
 }
-
-/*Pseudoclases*/
 .main-nav__item a:hover
 {
-    color: blue;
+    color: black;
 }
 
 .main-nav__item a:active
@@ -39,7 +48,6 @@ header
     color:white
 }
 
-/*Pseudoelemento*/
 .main-nav__item a::after
 {
     content: " | ";
